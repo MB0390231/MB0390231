@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MB0390231
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning python using MIT edX course and I hope to eventually create apple apps for fun. 
-- 💞️ Eventually I will look to colloborate but for now I am just learning the basics and having fun with codewars. 
-
+- 🌱 I’m currently learning how to develop website and automate workflows 
+- 💞️ I'm just having fun learning. I have no specific goals really, just ideas I want to put into action:
 
